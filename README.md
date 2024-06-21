@@ -1,1 +1,2 @@
 # Scientific-Calculator
+A fully functional scientific calculator built using React.js, replicating the macOS Scientific Calculator UI and UX. This project includes all basic arithmetic operations, advanced functions like trigonometry, logarithms, exponents, and special functions (e.g., factorial, random number). The calculator features a sleek and intuitive interface with memory functions and a history log to view past calculations.
